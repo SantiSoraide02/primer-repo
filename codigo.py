@@ -1,0 +1,3 @@
+nombre = "Santi"
+
+print(nombre)
